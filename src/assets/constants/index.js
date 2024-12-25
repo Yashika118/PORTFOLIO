@@ -20,6 +20,7 @@ export const PROJECTS = [
   {
     title: "Schedulify",
     image: Project1,
+    website:"https://schedulify-nine.vercel.app",
     description:
       "Developed a web-based application to simulate and visualize various CPU scheduling algorithms, including FCFS, SJF, Round Robin, and Priority Scheduling. Designed an intuitive user interface to ensure a seamless user experience and enable efficient comparison of algorithm performance. Implemented these scheduling algorithms from scratch, leveraging in-depth knowledge of operating systems concepts and algorithms.",
     technologies: ["Javascript","HTML", "CSS", "React", "Node.js"],
@@ -27,6 +28,7 @@ export const PROJECTS = [
   {
     title: "Breeze Talk",
     image: Project2,
+    website:"https://schedulify-nine.vercel.app",
     description:
       "Developed a full-stack real-time chat application using React with Vite, Tailwind CSS, and Daisy UI, delivering a responsive user interface for an enhanced user experience. Integrated Socket.io to enable real-time, bi-directional communication, ensuring seamless and instant data updates between the client and server. Implemented secure user authentication and password hashing using bcrypt, JWT, and MongoDB. Integrated Cloudinary for efficient media management and Axios for streamlined API interactions and data fetching.",
     technologies: ["React", "Javascript", "MongoDB", "Node.js"],
@@ -34,6 +36,7 @@ export const PROJECTS = [
   {
     title: "Cocktail Creator",
     image: Project3,
+    website:"https://schedulify-nine.vercel.app",
     description:
       "Developed a web application using Node.js, Express, and EJS to display drink recipes and information dynamically. Integrated Axios to fetch data from an external API, enabling access to comprehensive cocktail recipes and detailed ingredient information. Designed an intuitive user interface to render real-time data, ensuring a smooth and engaging user experience. Implemented search functionality, allowing users to find cocktails by name or ingredient, enhancing accessibility and usability of the application.",
     technologies: ["HTML", "CSS", "Node.js", "Bootstrap","Axios"],

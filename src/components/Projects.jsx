@@ -37,9 +37,11 @@ const Projects = () => {
                             transition={{duration:1}}  
                             className='w-full max-w-xl lg:w-3/4'
                         >
+                            <a href={project.website} >
                             <h3 className='mb-2 text-2xl font-semibold' >
                                 {project.title}
                             </h3>
+                            </a>
                             <p className='mb-4 text-neutral-400'>{project.description}</p>
 
                             {project.technologies.map((tech,index)=>(
