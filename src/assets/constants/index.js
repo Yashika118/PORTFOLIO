@@ -1,6 +1,8 @@
 import Project1 from "../projects/Project1.png";
 import Project2 from "../projects/Project2.png";
 import Project3 from "../projects/Project3.png";
+import Project4 from "../projects/Project4.png";
+import Project5 from "../projects/Project5.png";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 4 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -40,6 +42,22 @@ export const PROJECTS = [
     description:
       "Developed a web application using Node.js, Express, and EJS to display drink recipes and information dynamically. Integrated Axios to fetch data from an external API, enabling access to comprehensive cocktail recipes and detailed ingredient information. Designed an intuitive user interface to render real-time data, ensuring a smooth and engaging user experience. Implemented search functionality, allowing users to find cocktails by name or ingredient, enhancing accessibility and usability of the application.",
     technologies: ["HTML", "CSS", "Node.js", "Bootstrap","Axios"],
+  },
+  {
+    title: "Book Store",
+    image: Project4,
+    website:"https://bookstore-1-5n5x.onrender.com",
+    description:
+      "Developed a web application using React",
+    technologies: ["HTML", "Tailwind css", "Daisy ui", "React"],
+  },
+  {
+    title: "Library Management System",
+    image: Project5,
+    website:"https://library-management-system-7vtt.onrender.com",
+    description:
+      "Developed a full-stack web application using Node.js, Express, React for librabry management system",
+    technologies: ["HTML", "Tailwind css", "Node.js", "Express","Axios", "Daisy ui","React", "MongoDB"],
   },
 
 ];
