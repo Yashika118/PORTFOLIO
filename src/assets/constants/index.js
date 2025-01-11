@@ -20,6 +20,14 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "Library Management System",
+    image: Project5,
+    website:"https://library-management-system-7vtt.onrender.com",
+    description:
+      "Developed a full-stack web application using Node.js, Express, React for librabry management system",
+    technologies: ["HTML", "Tailwind css", "Node.js", "Express","Axios", "Daisyui","React", "MongoDB"],
+  },
+  {
     title: "Schedulify",
     image: Project1,
     website:"https://schedulify-nine.vercel.app",
@@ -36,6 +44,14 @@ export const PROJECTS = [
     technologies: ["React", "Javascript", "MongoDB", "Node.js"],
   },
   {
+    title: "Book Store",
+    image: Project4,
+    website:"https://bookstore-1-5n5x.onrender.com",
+    description:
+    "Developed a web application using React",
+    technologies: ["HTML", "Tailwind css","MongoDB","Node.js","Express", "Daisyui", "React"],
+  },
+  {
     title: "Cocktail Creator",
     image: Project3,
     website:"https://cocktail-capstone-project.onrender.com",
@@ -43,22 +59,7 @@ export const PROJECTS = [
       "Developed a web application using Node.js, Express, and EJS to display drink recipes and information dynamically. Integrated Axios to fetch data from an external API, enabling access to comprehensive cocktail recipes and detailed ingredient information. Designed an intuitive user interface to render real-time data, ensuring a smooth and engaging user experience. Implemented search functionality, allowing users to find cocktails by name or ingredient, enhancing accessibility and usability of the application.",
     technologies: ["HTML", "CSS", "Node.js", "Bootstrap","Axios"],
   },
-  {
-    title: "Book Store",
-    image: Project4,
-    website:"https://bookstore-1-5n5x.onrender.com",
-    description:
-      "Developed a web application using React",
-    technologies: ["HTML", "Tailwind css","MongoDB","Node.js","Express", "Daisyui", "React"],
-  },
-  {
-    title: "Library Management System",
-    image: Project5,
-    website:"https://library-management-system-7vtt.onrender.com",
-    description:
-      "Developed a full-stack web application using Node.js, Express, React for librabry management system",
-    technologies: ["HTML", "Tailwind css", "Node.js", "Express","Axios", "Daisyui","React", "MongoDB"],
-  },
+  
 
 ];
 
