@@ -25,7 +25,7 @@ export const PROJECTS = [
     website:"https://library-management-system-7vtt.onrender.com",
     description:
       "Developed a full-stack web application using Node.js, Express, React for librabry management system",
-    technologies: ["HTML", "Tailwind css", "Node.js", "Express","Axios", "Daisyui","React", "MongoDB"],
+    technologies: ["HTML", "Tailwind-Css", "Node.js", "Express","Axios", "Daisyui","React", "MongoDB"],
   },
   {
     title: "Schedulify",
