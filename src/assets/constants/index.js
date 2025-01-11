@@ -49,7 +49,7 @@ export const PROJECTS = [
     website:"https://bookstore-1-5n5x.onrender.com",
     description:
       "Developed a web application using React",
-    technologies: ["HTML", "Tailwind css", "Daisy ui", "React"],
+    technologies: ["HTML", "Tailwind css","MongoDB","Node.js","Express", "Daisyui", "React"],
   },
   {
     title: "Library Management System",
@@ -57,7 +57,7 @@ export const PROJECTS = [
     website:"https://library-management-system-7vtt.onrender.com",
     description:
       "Developed a full-stack web application using Node.js, Express, React for librabry management system",
-    technologies: ["HTML", "Tailwind css", "Node.js", "Express","Axios", "Daisy ui","React", "MongoDB"],
+    technologies: ["HTML", "Tailwind css", "Node.js", "Express","Axios", "Daisyui","React", "MongoDB"],
   },
 
 ];
