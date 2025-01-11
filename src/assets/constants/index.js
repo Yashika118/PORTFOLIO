@@ -24,7 +24,7 @@ export const PROJECTS = [
     image: Project5,
     website:"https://library-management-system-7vtt.onrender.com",
     description:
-      "Developed a full-stack web application using Node.js, Express, React for librabry management system",
+      "The Library Management System is a comprehensive full-stack MERN application aimed at simplifying library operations through efficient book and user management. It incorporates role-based access control, offering separate functionalities for users and administrators, secured with JWT authentication. The application ensures a seamless experience with a responsive interface designed using Tailwind CSS and Daisy UI, making it suitable for all device types. For global state management, Zustand is utilized to handle state efficiently across the application.",
     technologies: ["HTML", "Tailwind-Css", "Node.js", "Express","Axios", "Daisyui","React", "MongoDB"],
   },
   {
@@ -48,7 +48,7 @@ export const PROJECTS = [
     image: Project4,
     website:"https://bookstore-1-5n5x.onrender.com",
     description:
-    "Developed a web application using React",
+    "The Book Store project is a full-stack application developed using the MERN stack, designed to create a seamless platform for managing and purchasing books. It features secure user authentication using bcrypt for password encryption, ensuring data protection. The user interface is crafted with Tailwind CSS and Daisy UI, offering a modern, responsive design for an enhanced user experience. Notifications are integrated using Hot Toast to provide real-time updates and feedback.",
     technologies: ["HTML", "Tailwind css","MongoDB","Node.js","Express", "Daisyui", "React"],
   },
   {
