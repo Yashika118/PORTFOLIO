@@ -2,6 +2,7 @@ import React from 'react'
 import { HERO_CONTENT } from '../assets/constants/index.js'
 import profile from "../assets/profile-pic.jpg"
 import { motion } from "framer-motion"
+import { RESUME } from '../assets/constants/index.js'
 
 const container=(delay)=>({
     hidden:{x:-100,opacity:0},
@@ -40,6 +41,16 @@ const Hero = () => {
                             animate="visible"
                             className='my-2 max-w-xl py-6  font-light tracking-normal '>{HERO_CONTENT}
                         </motion.p>
+
+                        <motion.a
+                            variants={container(1)}
+                            initial="hidden"
+                            animate="visible" 
+                            href={RESUME} 
+                            className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 text-black font-bold text-lg tracking-wider px-5 py-2 rounded-md'
+                            >
+                                Resume
+                        </motion.a>
 
                     </div>
                 </div>

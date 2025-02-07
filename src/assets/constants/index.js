@@ -4,7 +4,9 @@ import Project3 from "../projects/Project3.png";
 import Project4 from "../projects/Project4.png";
 import Project5 from "../projects/Project5.png";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 4 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const RESUME=`https://drive.google.com/file/d/1BIl7cWB7TmfsDEUCk8goz5CwaFSdR3mf/view?usp=sharing`;
+
+export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 4 years of hands-on experience, I have honed my skills in front-end and back-end technologies `;
 
 export const ABOUT_TEXT = "I am Yashika, an aspiring software developer with a strong foundation in full-stack web development and hands-on experience in building innovative and efficient applications. I have worked on projects like Schedulify, a CPU scheduling algorithm simulator; Breeze Talk, a real-time chat application; and Cocktail Creator, a dynamic recipe search tool. Proficient in technologies such as JavaScript, React, Node.js, MongoDB, and PostgreSQL, I excel at creating secure, user-friendly, and scalable applications. Beyond technical expertise, I also take pride in my leadership role as the PR Head of Pratibimb – The Dramatics and Filmmaking Society. Passionate about problem-solving and continuous learning, I am dedicated to delivering impactful solutions through technology.";
 
